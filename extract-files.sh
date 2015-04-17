@@ -102,4 +102,4 @@ EOF
 
 EOF
 
-./../../../device/samsung/smdk4412-common/extract-files.sh
+./../../../device/samsung/i9300-common/extract-files.sh

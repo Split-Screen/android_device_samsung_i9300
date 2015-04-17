@@ -1,0 +1,18 @@
+[
+    {
+        "repository": "android_device_samsung_i9300-common",
+        "target_path": "device/samsung/i9300-common"
+    },
+    {
+        "repository": "android_kernel_samsung_i9300",
+        "target_path": "kernel/samsung/i9300"
+    },
+    {
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode"
+    },
+    {
+        "repository": "android_hardware_samsung-i9300",
+        "target_path": "hardware/i9300"
+    }
+]

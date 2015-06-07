@@ -17,7 +17,7 @@
 # This variable is set first, so it can be overridden
 # by BoardConfigVendor.mk
 
--include device/samsung/smdk4412-common/BoardCommonConfig.mk
+-include device/samsung/i9300-common/BoardCommonConfig.mk
 
 # RIL
 BOARD_PROVIDES_LIBRIL := true
@@ -28,7 +28,7 @@ TARGET_SPECIFIC_HEADER_PATH := device/samsung/i9300/include
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/i9300/bluetooth
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
+TARGET_KERNEL_SOURCE := kernel/samsung/i9300
 TARGET_KERNEL_CONFIG := cyanogenmod_i9300_defconfig
 
 # Recovery
